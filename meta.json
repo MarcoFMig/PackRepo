@@ -1,0 +1,17 @@
+{
+	"schemaversion":1,
+	"hotfixesFormat": null,
+	"versions": [
+		{
+			"id": "6.0.0",
+			"releasedAt": 1697979899,
+			"promotions": {
+				"downloads": {
+					"modrinth": "https://modrinth.com/",
+					"curseforge": "https://curseforge.com/",
+					"generic": "https://example.com/"
+				}
+			}
+		}
+	]
+}
